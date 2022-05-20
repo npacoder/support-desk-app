@@ -1,0 +1,5 @@
+200 thành công
+201 tạo tài liệu thành công
+400 lỗi do người dùng
+401 lỗi xác thực
+404 lỗi không tìm thấy
